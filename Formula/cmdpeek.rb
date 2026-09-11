@@ -1,8 +1,8 @@
 class Cmdpeek < Formula
   desc "Interactive flag explorer & command builder for any CLI (from its --help)"
   homepage "https://github.com/esperanza-volkov/cmdpeek"
-  url "https://registry.npmjs.org/cmdpeek/-/cmdpeek-0.3.0.tgz"
-  sha256 "d09fbd8d98a0394f94ab88c9b8b401f9d1e1abe85fd765fe77d671aead3dff89"
+  url "https://registry.npmjs.org/cmdpeek/-/cmdpeek-0.4.0.tgz"
+  sha256 "7da0a2343b20c6a1bc00cfc0f74e2611b52c99001d89b75d9a950f8ed1a82012"
   license "MIT"
 
   depends_on "node"
