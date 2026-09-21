@@ -1,8 +1,8 @@
 class Confdiff < Formula
   desc "Semantic, format-aware diff for config & structured-data files"
   homepage "https://github.com/esperanza-volkov/confdiff"
-  url "https://registry.npmjs.org/confdiff/-/confdiff-0.17.2.tgz"
-  sha256 "a8b4f85884eabaa099b0a2850e8646d734599cf342787afffb0e68b8bfa2bdb0"
+  url "https://registry.npmjs.org/confdiff/-/confdiff-0.17.3.tgz"
+  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
   license "MIT"
 
   depends_on "node"
